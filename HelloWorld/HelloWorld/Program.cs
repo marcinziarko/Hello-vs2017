@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace HelloWorld {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("ok v4");
+            Console.WriteLine("ok v4 tortoise git");
             Console.ReadLine();
         }
     }
